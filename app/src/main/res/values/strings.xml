@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Walkthrough calories</string>
+    <string name="Calories">Calories</string>
+    <string name="Weight">Enter Weight</string>
+    <string name="MaleOption">Male</string>
+    <string name="FemaleOption">Female</string>
+    <string name="selected_intensity">selected intensity</string>
+    <string name="calculate">Calculate</string>
+</resources>
